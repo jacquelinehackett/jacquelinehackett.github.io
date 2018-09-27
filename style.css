@@ -1,0 +1,33 @@
+h1 {
+	color: #221364;
+	font-family:impact;
+	text-align:center;
+	font-size:40px;
+}
+
+h3 {
+	color: #221364;
+	font-family:impact;
+	font-size:24px;
+}
+
+p {
+	text-align:center;
+}
+
+
+img {
+	align-content:center;
+}
+
+#songs {
+	color:#221364;
+	font-family:impact;
+	text-align: left;
+	font-size:18px;
+}
+
+#list1 {
+	color:#304C6D;
+
+}
