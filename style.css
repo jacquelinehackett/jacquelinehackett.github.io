@@ -1,3 +1,5 @@
+/*Element Selector*/
+
 h1 {
 	color: #221364;
 	font-family:impact;
@@ -9,25 +11,58 @@ h3 {
 	color: #221364;
 	font-family:impact;
 	font-size:24px;
+	margin-left:50px;
 }
 
 p {
-	text-align:center;
+	text-align:left;
+	margin:50px;
 }
 
 
 img {
-	align-content:center;
+	display:block;
+	margin:auto;
+	
+	
 }
+
+/*ID Selector*/
 
 #songs {
 	color:#221364;
 	font-family:impact;
 	text-align: left;
-	font-size:18px;
+	font-size:29px;
 }
 
 #list1 {
 	color:#304C6D;
+	display:block;
+	text-align:left;
+	margin-left:25px;
+	font-size:18px;
+	padding-top:0px;
 
+}
+
+#disneypic {
+	display:block;
+	margin:auto;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+#dad {
+	display:block;
+	margin:auto;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+#mee {
+	display:block;
+	margin:auto;
+	padding-top:50px;
+	padding-bottom:50px;
 }
